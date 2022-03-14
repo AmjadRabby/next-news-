@@ -49,7 +49,7 @@ export const Feed = ({ pageNumber, articles }) => {
             }}
             className={pageNumber === 5 ? styles.disabled : styles.active}
           >
-            Next page ->
+            Next page -&gt;
           </div>
         </div>
       </div>

@@ -17,7 +17,7 @@ export default function Home() {
         <div className={styles.main}>
           <h1>Next js News App</h1>
           <h3 onClick={() => router.push("/feed/1")}>
-            Your one stop for the latest news articles -->
+            Your one stop for the latest news articles --&gt;
           </h3>
         </div>
       </div>
